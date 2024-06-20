@@ -1,0 +1,3 @@
+conda create -n pip-facenet python=3.7
+conda activate pip-facenet
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
